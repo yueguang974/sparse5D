@@ -1,4 +1,4 @@
-This is the code package regarding to TGRS paper "Simultaneous reconstruction and denoising of extremely sparse 5D seismic data by a simple and effective method".
+This is the code package regarding TGRS paper "Simultaneous reconstruction and denoising of extremely sparse 5D seismic data by a simple and effective method".
 
 This code package contains two parts. The first one is an example of reconstruction for a small 5D patch (Figs. 20,23,25). The other one is an example of stacked section based on a larger data volume (Fig. 26), WHICH IS STILL UNDER PREPARATION AND WILL BE RELEASED SOON.
 
